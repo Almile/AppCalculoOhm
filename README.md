@@ -18,8 +18,6 @@ Este projeto foi desenvolvido como parte de um exercício/aula para praticar o d
    - Selecione `File > Open...` e escolha a pasta do projeto.  
 3. **Execute o aplicativo em um emulador ou dispositivo físico:**  
    - Clique no botão ▶️ no Android Studio ou use o atalho `Shift + F10`.  
-4. **(Opcional) Configure uma API Key ou Banco de Dados**  
-   - Se o projeto usar APIs externas, verifique a necessidade de adicionar chaves no `AndroidManifest.xml` ou `gradle.properties`.  
 
 ## 📝 Funcionalidades  
 ✅ Calculo para 1° lei de Ohm V = R*I
